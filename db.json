@@ -1,0 +1,15 @@
+[
+    {
+      "email": "admin@cukurjon.com",
+      "username": "admin",
+      "password": "keephappyfirst",
+      "role": "admin"
+    },
+    {
+        "email": "sugiartomi@gmail.com",
+        "username": "sugiartomi",
+        "password": "qwerty123",
+        "role": "customer"
+      }
+  ]
+
